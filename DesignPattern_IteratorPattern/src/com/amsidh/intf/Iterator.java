@@ -1,0 +1,7 @@
+package com.amsidh.intf;
+
+public interface Iterator {
+	public boolean hasNext();
+
+	public Object next();
+}
